@@ -67,4 +67,4 @@ resource "azurerm_subnet" "dev" {
 #         subnet_id                       = "${azurerm_subnet.GatewaySubnet.id}"
 #     }
 # 
-# }
+# }a
